@@ -2,7 +2,7 @@
 
 **📌 Introdução**
 
-Este repositório contém os projetos, exercícios e estudos desenvolvidos ao longo da disciplina de Estruturas de Dados e Linguagem C no IFBA - Instituto Federal de Educação, Ciência e Tecnologia da Bahia. O material inclui implementações de diferentes estruturas de dados como listas, pilhas, filas, árvores e grafos, além de exercícios práticos em linguagem C. O repositório também contém conteúdos complementares de cursos online, livros e pesquisas em comunidades de programação, que ajudaram na construção de uma base sólida em algoritmos e estruturas de dados.
+Este repositório contém os projetos, exercícios e estudos desenvolvidos ao longo da disciplina de Estruturas de Dados e Linguagem C no IFBA - Instituto Federal de Educação, Ciência e Tecnologia da Bahia. O material inclui implementações de diferentes estruturas de dados como listas, pilhas, filas, árvores, além de exercícios práticos em linguagem C. O repositório também contém conteúdos complementares de cursos online, livros e pesquisas em comunidades de programação, que ajudaram na construção de uma base sólida em algoritmos e estruturas de dados.
 
 ---
 
